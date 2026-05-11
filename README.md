@@ -1,2 +1,2 @@
-# Git & Github assignment >> edited with feature a
+# Git & Github assignment >> after resolving conflict 
 
